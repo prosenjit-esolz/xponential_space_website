@@ -3652,8 +3652,7 @@ img#curve-svg {
 }
 
 .framework {
-  margin-top: -40px;
-  padding-top: 40px;
+  scroll-margin-top: 40px;
   padding-bottom: 120px;
 }
 
